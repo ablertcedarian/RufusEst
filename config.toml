@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'rufusest.abd.ink'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'hugo-theme-tokiwa-master'
